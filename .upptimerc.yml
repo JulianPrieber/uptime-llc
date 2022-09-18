@@ -35,8 +35,8 @@ status-website:
       href: https://littlelink-custom.com
   assignees:
      - JulianPrieber
-  theme: night
-  # themeUrl: https://raw.githubusercontent.com/LittleLink-Custom/uptime/master/assets/llc.css
+  # theme: night
+  themeUrl: https://raw.githubusercontent.com/LittleLink-Custom/uptime/master/assets/llc.css
   scripts:
     - src:
       async: true
