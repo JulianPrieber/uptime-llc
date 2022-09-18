@@ -33,7 +33,7 @@ status-website:
   assignees:
      - JulianPrieber
   theme: night
-    scripts:
+  scripts:
     - src:
       async: true
   faviconSvg:
