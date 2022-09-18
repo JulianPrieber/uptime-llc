@@ -22,8 +22,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: uptime.littlelink-custom.com
   baseUrl: /uptime
-  theme: night
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: LLC Uptime
   introTitle: "LLC Uptime"
   introMessage: Check if any part of LittleLink-Custom is down
@@ -36,7 +35,8 @@ status-website:
       href: https://littlelink-custom.com
   assignees:
      - JulianPrieber
-  themeUrl: https://raw.githubusercontent.com/LittleLink-Custom/uptime/master/assets/llc.css
+  theme: night
+  # themeUrl: https://raw.githubusercontent.com/LittleLink-Custom/uptime/master/assets/llc.css
   scripts:
     - src:
       async: true
