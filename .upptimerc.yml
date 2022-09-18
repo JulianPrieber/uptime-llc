@@ -7,6 +7,9 @@ sites:
   - name: Website
     url: https://littlelink-custom.com
     icon:
+  - name: Demo
+    url: https://demo.littlelink-custom.com
+    icon:
   - name: LLC Update Server
     url: https://update.littlelink-custom.com
     icon:
@@ -32,7 +35,7 @@ status-website:
       href: https://littlelink-custom.com
   assignees:
      - JulianPrieber
-  theme: night
+  themeURL: https://raw.githubusercontent.com/LittleLink-Custom/uptime/master/assets/llc.css
   scripts:
     - src:
       async: true
