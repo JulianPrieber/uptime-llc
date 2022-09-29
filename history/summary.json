@@ -4,36 +4,40 @@
     "url": "https://littlelink-custom.com",
     "icon": "https://favicons.githubusercontent.com/littlelink-custom.com",
     "slug": "website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 799,
     "timeDay": 988,
     "timeWeek": 875,
     "timeMonth": 799,
     "timeYear": 799,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-29": 3
+    }
   },
   {
     "name": "Demo",
     "url": "https://demo.littlelink-custom.com",
     "icon": "https://favicons.githubusercontent.com/demo.littlelink-custom.com",
     "slug": "demo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 659,
     "timeDay": 753,
     "timeWeek": 701,
     "timeMonth": 659,
     "timeYear": 659,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-29": 2
+    }
   },
   {
     "name": "LLC Update Server",
@@ -58,7 +62,7 @@
     "url": "https://llc.bio",
     "icon": "https://favicons.githubusercontent.com/llc.bio",
     "slug": "llc-bio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +73,8 @@
     "timeWeek": 887,
     "timeMonth": 816,
     "timeYear": 816,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-29": 0
+    }
   }
 ]
