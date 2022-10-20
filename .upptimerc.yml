@@ -31,6 +31,9 @@ sites:
   - name: llc.bio
     url: https://llc.bio
     icon:
+  - name: LLC Test Server
+    url: $TEST_SERVER
+    icon:
     assignees:
      - JulianPrieber
 
