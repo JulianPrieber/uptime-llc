@@ -42,9 +42,16 @@ status-website:
   name: LLC Uptime
   faviconSvg: https://raw.githubusercontent.com/LittleLink-Custom/branding/main/logo/svg/logo.svg
   favicon: https://raw.githubusercontent.com/LittleLink-Custom/branding/main/logo/png/logo_lowres.png
-  scripts:
-    - src:
-      async: true
+  js: var _paq = window._paq = window._paq || [];
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function () {
+          var u = "//a.littlelink-custom.com/";
+          _paq.push(['setTrackerUrl', u + 'matomo.php']);
+          _paq.push(['setSiteId', '6']);
+          var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+          g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
+      })();
   introTitle: "LLC Uptime"
   introMessage: Check if any part of LittleLink-Custom is down
   navbar:
