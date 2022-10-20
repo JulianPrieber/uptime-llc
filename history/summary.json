@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/littlelink-custom.com.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.10%",
     "time": 1143,
-    "timeDay": 886,
-    "timeWeek": 787,
-    "timeMonth": 1253,
+    "timeDay": 935,
+    "timeWeek": 820,
+    "timeMonth": 1251,
     "timeYear": 1143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-29": 415
+    }
   },
   {
     "name": "Demo",
@@ -23,17 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.littlelink-custom.com.ico",
     "slug": "demo",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 998,
-    "timeDay": 713,
-    "timeWeek": 642,
-    "timeMonth": 1090,
-    "timeYear": 998,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.15%",
+    "time": 996,
+    "timeDay": 745,
+    "timeWeek": 664,
+    "timeMonth": 1085,
+    "timeYear": 996,
+    "dailyMinutesDown": {
+      "2022-09-29": 391
+    }
   },
   {
     "name": "LLC Update Server",
@@ -46,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 648,
-    "timeWeek": 637,
-    "timeMonth": 616,
-    "timeYear": 601,
+    "time": 603,
+    "timeDay": 659,
+    "timeWeek": 643,
+    "timeMonth": 619,
+    "timeYear": 603,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 709,
-    "timeWeek": 709,
-    "timeMonth": 709,
-    "timeYear": 709,
+    "time": 705,
+    "timeDay": 705,
+    "timeWeek": 705,
+    "timeMonth": 705,
+    "timeYear": 705,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 611,
-    "timeWeek": 611,
-    "timeMonth": 611,
-    "timeYear": 611,
+    "time": 625,
+    "timeDay": 625,
+    "timeWeek": 625,
+    "timeMonth": 625,
+    "timeYear": 625,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 552,
-    "timeWeek": 561,
-    "timeMonth": 580,
-    "timeYear": 580,
+    "time": 581,
+    "timeDay": 563,
+    "timeWeek": 566,
+    "timeMonth": 581,
+    "timeYear": 581,
     "dailyMinutesDown": {}
   },
   {
@@ -113,17 +117,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/llc.bio.ico",
     "slug": "llc-bio",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1157,
-    "timeDay": 766,
-    "timeWeek": 741,
-    "timeMonth": 1259,
-    "timeYear": 1157,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.16%",
+    "time": 1149,
+    "timeDay": 772,
+    "timeWeek": 747,
+    "timeMonth": 1247,
+    "timeYear": 1149,
+    "dailyMinutesDown": {
+      "2022-09-29": 390
+    }
   },
   {
     "name": "LLC Test Server",
@@ -136,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 484,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "time": 498,
+    "timeDay": 498,
+    "timeWeek": 498,
+    "timeMonth": 498,
+    "timeYear": 498,
     "dailyMinutesDown": {}
   }
 ]
