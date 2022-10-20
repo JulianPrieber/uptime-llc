@@ -44,7 +44,7 @@ status-website:
   name: LLC Uptime
   faviconSvg: https://raw.githubusercontent.com/LittleLink-Custom/branding/main/logo/svg/logo.svg
   favicon: https://raw.githubusercontent.com/LittleLink-Custom/branding/main/logo/png/logo_lowres.png
-    scripts:
+  scripts:
     - src:
       async: true
   introTitle: "LLC Uptime"
