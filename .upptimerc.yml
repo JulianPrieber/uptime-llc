@@ -12,6 +12,11 @@ sites:
     icon:
     assignees:
      - JulianPrieber
+  - name: Our Socials
+    url: https://us.littlelink-custom.com
+    icon:
+    assignees:
+     - JulianPrieber
   - name: LLC Update Server
     url: https://update.littlelink-custom.com
     icon:
