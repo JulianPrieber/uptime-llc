@@ -1,6 +1,5 @@
-# Change these first
-owner: LittleLink-Custom # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
+owner: LittleLink-Custom
+repo: uptime
 user-agent: LLC_uptime
 
 sites:
@@ -36,10 +35,8 @@ sites:
      - JulianPrieber
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: uptime.littlelink-custom.com
-  baseUrl: /uptime
+  cname: uptime.littlelink-custom.com
+  # baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/LittleLink-Custom/branding/main/logo/svg/logo.svg
   name: LLC Uptime
   faviconSvg: https://raw.githubusercontent.com/LittleLink-Custom/branding/main/logo/svg/logo.svg
