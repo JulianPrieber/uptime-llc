@@ -1,26 +1,39 @@
 # Change these first
 owner: LittleLink-Custom # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
-user-agent: LLC
-assignees:
-     - JulianPrieber
+user-agent: LLC_uptime
 
 sites:
   - name: Website
     url: https://littlelink-custom.com
-    icon:
+    assignees:
+     - JulianPrieber
   - name: Demo
     url: https://demo.littlelink-custom.com
     icon:
+    assignees:
+     - JulianPrieber
   - name: LLC Update Server
     url: https://update.littlelink-custom.com
+    icon:
+    assignees:
+     - JulianPrieber
+  - name: LLC Version Server
+    url: https://version.littlelink-custom.com
+    icon:
+  - name: LLC Event Server
+    url: https://event.littlelink-custom.com
     icon:
   - name: LLC Beta Server
     url: https://beta.littlelink-custom.com
     icon:
+    assignees:
+     - JulianPrieber
   - name: llc.bio
     url: https://llc.bio
     icon:
+    assignees:
+     - JulianPrieber
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
