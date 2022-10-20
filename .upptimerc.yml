@@ -34,8 +34,6 @@ sites:
   - name: LLC Test Server
     url: $TEST_SERVER
     icon:
-    assignees:
-     - JulianPrieber
 
 status-website:
   cname: uptime.littlelink-custom.com
